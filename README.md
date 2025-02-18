@@ -6,7 +6,7 @@
 
 📺 YouTube: [Your Link]
 
-📘 Bluesky: [Your Link]
+📘 Bluesky: [LearnDataLive](https://bsky.app/profile/learndatalive.bsky.social)
 
 
 
