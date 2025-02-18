@@ -2,11 +2,13 @@
 
 🔹 **Live Coding & Open-Source Data Engineering**
 
+- **A data engineer trying new tools and techniques and making mistakes so you don't have to**
+
 🚀 Follow for tutorials, automation, and free tools!
 
-📺 YouTube: [Your Link]
+📺 YouTube: [LearnDataLive](https://www.youtube.com/@LearnDataLive)
 
-💻 Twitch: 
+💻 Twitch: [LearnDataLive](https://www.twitch.tv/learndatalive)
 
 📘 Bluesky: [LearnDataLive](https://bsky.app/profile/learndatalive.bsky.social)
 
